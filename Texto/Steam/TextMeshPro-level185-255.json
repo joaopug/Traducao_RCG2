@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 34
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1914
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_text": "<b><size=4.5>Bruxa do Vilarejo</size></b>\nColleen Fannin\n\n<b><size=4.5>Mestre Zumbi</size></b>\nJeremy Pryer\n\n<b><size=4.5>Criatura do Grito</size></b>\nKathryn DeFeo\n\n<b><size=4.5>Maior Apreciador de Dachshund</size></b>\nDaiki Mihara\n\n<b><size=4.5>Baixinha Reclamona</size></b>\nPagu\n\n<b><size=4.5>Capanga das Artes</size></b>\nNick Lee\n\n<b><size=4.5>Assistente do Assistente</size></b>\nEric Robinson\n\n<b><size=4.5>Baita Best Boy</size></b>\nWilliam “Billiam” Olden\n\n<b><size=4.5>Rotoscopia</size></b>\nChris “Sparticlese” Stephens\n\n<b><size=4.5>Apoio nos Bastidores</size></b>\nTyler Lumpkin\n\n<b><size=4.5>O Cara dos 5 Mangos</size></b>\nErgheis Warthog\n\n<b><size=4.5>O Rei dos Efeitos Visuais</size></b>\nKevin Marble\n\n<b><size=4.5>Best Boy</size></b>\nBigby Rudis\n\n<b><size=4.5>Coordenadora de Dubl$s</size></b>\nChara Burgh\n\n<b><size=4.5>Piadas de Velho</size></b>\nAdam Tierney\n\n<b><size=4.5>Equipe de Dubl$s</size></b>\nGlen Mellander\nMike Murphy\nPaul Radcliffe\nDavid Kile\nGreg Kucera\n\n<b><size=4.5>Cinegrafistas</size></b>\nMary Hanson\nCarlos Vega\nChris Williams\nZack Rice\nMike Kumazawa\n\n<b><size=4.5>Maquiagem Especial</size></b>\nSuzanne Grant\nCyndi Brugger\nFrank Brugger\nMorgan Brugger\nRachel Rudis\nO’Ryan Rudis\n\n<b><size=4.5>Coordenadora dos Cachorros</size></b>\nSandy Gordon\n\n<b><size=4.5>Coordenadora de NPCs</size></b>\nSandy Gordon\n\n<b><size=4.5>Coordenador do Figurino</size></b>\nRowan Remy\n\n<b><size=4.5>Digitador</size></b>\nDaniel Schlesinger\n\n<b><size=4.5>Autoengano Moral</size></b>\nFrank Jui\n\n<b><size=4.5>Apoio Moral Aparente</size></b>\nBrendan Fox\n\n<b><size=4.5>Lorde do Caos e B A G U N C E I R O</size></b>\nTobi\n\n<b><size=4.5>Alex, Apoio Emocional</size></b>\nAlex Lundgren\n\n<b><size=4.5>Suporte Emocional (Jap?o)</size></b>\nHanako Fukumoto\n\n<b><size=4.5>Rainha das Sombras</size></b>\nChelsea Caldwell\n\n<b><size=4.5>Mestre das Plantas</size></b>\nAaron Caldwell\n\n<b><size=4.5>Senhor do Submundo</size></b>\nHades Nugget Caldwell\n\n<b><size=4.5>Duque da Fofura</size></b>\nAzrael Loafasaurus Caldwell\n\n<b><size=4.5>Especialistas em Catering</size></b>\nJoel Benefiel\nJessica Benefiel\n\n<b><size=4.5>Gata Maluca</size></b>\nMimi Li \n\n<b><size=4.5>M?e da Gata Maluca</size></b>\nKunjue Li \n\n<b><size=4.5>Catering Secreto</size></b>\nJeremy Hobbs\n\n<b><size=4.5>Elenco Complementar</size></b>\nRobyn Frog\nJon Laudom\nKali R.\nKaedian M.\nSpencer S.\nYoanny Z.\nIaroslav T.\nBoot-wearing Squid(s)\n\n<b><size=4.5>O Sim Ausente</size></b>\nDavid To\nHans Wakelin\r\nNathan Lindley\r\nJames Guintu\n\n<b><size=4.5>Rei do Bacon</size></b>\nNick Solberg\n\n<b><size=4.5>O Panda</size></b>\nVinh Ly\n\n<b><size=4.5>Sr. do Som</size></b>\nKent Ward\n",
+  "m_isRightToLeft": 0,
+  "m_fontAsset": {
+    "m_FileID": 2,
+    "m_PathID": 36319
+  },
+  "m_sharedMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 165
+  },
+  "m_fontSharedMaterials": {
+    "Array": []
+  },
+  "m_fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_fontMaterials": {
+    "Array": []
+  },
+  "m_fontColor32": {
+    "rgba": 4294967295
+  },
+  "m_fontColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_enableVertexGradient": 0,
+  "m_colorMode": 3,
+  "m_fontColorGradient": {
+    "topLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "topRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "m_fontColorGradientPreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_spriteAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_tintAllSprites": 0,
+  "m_StyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_TextStyleHashCode": -1183493901,
+  "m_overrideHtmlColors": 0,
+  "m_faceColor": {
+    "rgba": 4294967295
+  },
+  "m_fontSize": 4.0,
+  "m_fontSizeBase": 4.0,
+  "m_fontWeight": 400,
+  "m_enableAutoSizing": 0,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
+  "m_fontStyle": 0,
+  "m_HorizontalAlignment": 2,
+  "m_VerticalAlignment": 256,
+  "m_textAlignment": 65535,
+  "m_characterSpacing": 0.0,
+  "m_wordSpacing": 0.0,
+  "m_lineSpacing": 34.0,
+  "m_lineSpacingMax": 0.0,
+  "m_paragraphSpacing": 0.0,
+  "m_charWidthMaxAdj": 0.0,
+  "m_TextWrappingMode": 1,
+  "m_wordWrappingRatios": 0.4,
+  "m_overflowMode": 0,
+  "m_linkedTextComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "parentLinkedComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_enableKerning": 1,
+  "m_enableExtraPadding": 0,
+  "checkPaddingRequired": 0,
+  "m_isRichText": 1,
+  "m_EmojiFallbackSupport": 1,
+  "m_parseCtrlCharacters": 1,
+  "m_isOrthographic": 0,
+  "m_isCullingEnabled": 0,
+  "m_horizontalMapping": 0,
+  "m_verticalMapping": 0,
+  "m_uvLineOffset": 0.0,
+  "m_geometrySortingOrder": 0,
+  "m_IsTextObjectScaleStatic": 0,
+  "m_VertexBufferAutoSizeReduction": 0,
+  "m_useMaxVisibleDescender": 1,
+  "m_pageToDisplay": 1,
+  "m_margin": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_isUsingLegacyAnimationComponent": 0,
+  "m_isVolumetricText": 0,
+  "m_hasFontAssetChanged": 0,
+  "m_renderer": {
+    "m_FileID": 0,
+    "m_PathID": 176
+  },
+  "m_maskType": 0,
+  "_SortingLayer": 0,
+  "_SortingLayerID": 0,
+  "_SortingOrder": 0
+}
