@@ -26,7 +26,7 @@ Além da tradução dos textos, o projeto também contempla a reconstrução de 
 | Tradução dos textos | ✅ Completa |
 | Mangás | ✅ Completos |
 | Vídeos de introdução dos chefes | ✅ Completos |
-| Gráficos | 🚧 Em andamento |
+| Gráficos | 🚧 Em breve |
 
 ---
 
