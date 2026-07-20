@@ -51,9 +51,9 @@ Os recursos encontram-se separados entre as versões **Steam** e **Epic Games**,
 
 Entre eles estão arquivos exportados dos assets Unity, como:
 
-* I2Languages
-* TextMeshPro
-* TextMeshProUGUI
+* I2Languages-resources
+* TextMeshPro-level185-254
+* TextMeshProUGUI-resources
 
 ---
 
@@ -63,11 +63,8 @@ Reúne todos os arquivos utilizados para adaptação das fontes do jogo ao Portu
 
 Inclui:
 
-* Fontes editadas
-* Atlas de fontes
-* Arquivos de projeto
-* PNGs
-* XCFs
+* Fontes editadas exportadas
+* Arquivos de projeto (XCFs)
 
 ---
 
